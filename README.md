@@ -5,9 +5,10 @@
 </h3>
 <h3 align="left">  🔥 Interested in Blockchain & DeFi
 </h3> 
-<h3 align="left">   📫 Linkedin | Twitter | Instagram | Medium: blessingman
+<h3 align="left">   📫 Linkedin | Twitter | Instagram | Medium: @pristine-dandelion
 </h3> 
 
+<a href="https://www.leetcode.com/pristine-dandelion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pristine-dandelion" height="30" width="40" /></a>
 
 
 
