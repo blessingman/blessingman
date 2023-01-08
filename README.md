@@ -8,7 +8,7 @@
 <h3 align="left">   📫 Linkedin | Twitter | Medium: @pristine-dandelion
 </h3> 
 
-<h3 href="blank" target="blank">MY LeetCode and CodeWars:</h3>
+<h3 href="blank" target="blank">My LeetCode and CodeWars:</h3>
 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pristine-dandelion" height="30" width="40" /><img align="center" src="https://programming.rhysshea.com/images/codewars.svg" alt="pristine-dandelion" height="30" width="40" />
 
