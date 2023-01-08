@@ -5,7 +5,7 @@
 </h3>
 <h3 align="left">  🔥 Interested in Blockchain & DeFi
 </h3> 
-<h3 align="left">   📫 Linkedin | Twitter | Instagram | Medium: @pristine-dandelion
+<h3 align="left">   📫 Linkedin | Twitter | Instagram | Medium: blessingman
 </h3> 
 
 
