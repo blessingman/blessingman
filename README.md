@@ -8,9 +8,8 @@
 <h3 align="left">   📫 Linkedin | Twitter | Medium: @pristine-dandelion
 </h3> 
 
-<h3 href="blank" target="blank">LEETCODE: 
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pristine-dandelion" height="30" width="40" /></h3>
-
+<h3 href="blank" target="blank">LEETCODE:</h3>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pristine-dandelion" height="30" width="40" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blessingman&show_icons=true&locale=en" alt="blessingman" /></p>
