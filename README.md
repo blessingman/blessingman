@@ -1,5 +1,5 @@
 <h3 align="center">BACKEND developer</h3>
-<p align="center"> <img src="https://image.pngaaa.com/853/708853-middle.png" alt="blessingman" /> </p>
+
 
 - 🔭 I’m currently working on **WEB3 PROJECTS**
 
