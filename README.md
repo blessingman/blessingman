@@ -1,8 +1,6 @@
 <h3 align="center">BACKEND developer</h3>
 <p align="center"> <img src="https://image.pngaaa.com/853/708853-middle.png" alt="blessingman" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blessingman" alt="blessingman" /></a> </p>
-
 - 🔭 I’m currently working on **WEB3 PROJECTS**
 
 - 🌱 I’m currently learning **BACKEND**
