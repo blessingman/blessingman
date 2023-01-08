@@ -2,6 +2,8 @@
 
 
 <h3 align="left"> 💻 Core Stack: Rust. Mainly focused on Backend & DevOps.
-     🔥 Interested in Blockchain & DeFi
-     📫 Linkedin | Twitter | Instagram | Medium: @pristine-dandelion
 </h3>
+<h3 align="left">  🔥 Interested in Blockchain & DeFi
+</h3> 
+<h3 align="left">   📫 Linkedin | Twitter | Instagram | Medium: @pristine-dandelion
+</h3> 
