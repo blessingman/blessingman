@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GLEB VODKIN</h1>
 <h3 align="center">BACKEND developer</h3>
-<p align="left"> <img src="https://devnot.com/wp-content/uploads/2019/09/animated-ferris.gif" alt="blessingman" /> </p>
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif" alt="blessingman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blessingman" alt="blessingman" /></a> </p>
 
