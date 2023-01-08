@@ -10,7 +10,7 @@
 
 <h3 href="blank" target="blank">My LeetCode and CodeWars:</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pristine-dandelion" height="30" width="40" /><img align="center" src="https://theindianwire.com/wp-content/uploads/2018/06/codewars-logo.png" alt="pristine-dandelion" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pristine-dandelion" height="30" width="40" /><img align="center" src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2021/10/codewars-logo-1.png&nocache=1" alt="pristine-dandelion" height="30" width="40" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blessingman&show_icons=true&locale=en" alt="blessingman" /></p>
