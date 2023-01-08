@@ -1,4 +1,4 @@
-<h3 align="center">BACKEND developer</h3>
+<h3 align="left">BACKEND developer</h3>
 
 
 - 🔭 I’m currently working on **WEB3 PROJECTS**
