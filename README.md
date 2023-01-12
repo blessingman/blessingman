@@ -14,5 +14,4 @@
 <a href="https://www.codewars.com/users/pristine-dandelion" target="blank"> <img align="center" src="https://www.qualified.io/shared/images/codewars-black-large-24a9d355.png" alt="pristine-dandelion" height="30" width="100" /> </a> 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blessingman&show_icons=true&locale=en" alt="blessingman" /></p>
 
