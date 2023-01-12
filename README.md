@@ -1,7 +1,7 @@
 <h1 align="left">Gleb Vodkin (@pristine-dandelion) wave </h1>
 
 
-<h3 align="left"> 💻 Core Stack: Rust. Mainly focused on Backend & DevOps.
+<h3 align="left"> 💻 Core Stack: Rust,Golang. Mainly focused on Backend & DevOps.
 </h3>
 <h3 align="left">  🔥 Interested in Blockchain & DeFi
 </h3> 
