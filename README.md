@@ -1,4 +1,4 @@
-<h1 align="left">Gleb Vodkin (@pristine-dandelion) wave </h1>
+<h1 align="left">@pristine-dandelion wave </h1>
 
 
 <h3 align="left"> 💻 Core Stack: Rust,Golang. Mainly focused on Backend & DevOps.
