@@ -1,7 +1,7 @@
 <h1 align="left">@pristine-dandelion </h1>
 
 
-<h3 align="left"> 💻 Core Stack:Golang,Rust. Mainly focused on Backend & DevOps.
+<h3 align="left"> 💻 Core Stack:Golang. Mainly focused on Backend & DevOps.
 </h3>
 <h3 href="blank" target="blank">My Leetcode and Codewars:</h3>
 
